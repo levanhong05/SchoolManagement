@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>asserts/icon/About.png</file>
+        <file>asserts/icon/Break.png</file>
+        <file>asserts/icon/Check.png</file>
+        <file>asserts/icon/Close.png</file>
+        <file>asserts/icon/Copy.png</file>
+        <file>asserts/icon/Cut.png</file>
+        <file>asserts/icon/New.png</file>
+        <file>asserts/icon/Open.png</file>
+        <file>asserts/icon/Paste.png</file>
+        <file>asserts/icon/Save.png</file>
+        <file>asserts/icon/Quit.png</file>
+        <file>asserts/icon/Plus.png</file>
+        <file>asserts/icon/Remove.png</file>
+        <file>asserts/icon/Search.png</file>
+        <file>asserts/icon/Clear.png</file>
+    </qresource>
+</RCC>
